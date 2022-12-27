@@ -1,0 +1,3 @@
+length=69
+breadth=69
+Area=4761
